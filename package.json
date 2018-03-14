@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-theme-itheima",
-  "description": "GitBook 技术文档模板 - theme-itheima",
+  "description": "GitBook 研究院技术文档模板 - theme-itheima",
   "main": "./index.js",
   "version": "1.1.9",
   "engines": {
