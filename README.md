@@ -1,5 +1,7 @@
 # GitBook 研究院技术文档模板 - theme-itheima
 
+GitBook 研究院技术文档模板 - theme-itheima
+
 ![gitbook-plugin-theme-itheima](https://github.com/itheima2017/gitbook-plugin-theme-itheima/raw/master/preview.png)
 
 ## 1. 安装
