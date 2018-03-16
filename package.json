@@ -2,7 +2,7 @@
   "name": "gitbook-plugin-theme-itheima",
   "description": "GitBook 研究院技术文档模板 - theme-itheima",
   "main": "./index.js",
-  "version": "1.1.10",
+  "version": "1.1.12",
   "engines": {
     "gitbook": ">=3.0.0"
   },
